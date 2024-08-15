@@ -12,13 +12,13 @@ This project is developed by a team of 4 members with the help of the Spring-Boo
 
 # Team Members
 
-<h4>1. Md Irfan(Team Lead)</h4>
+//<h4>1. Md Irfan(Team Lead)</h4>
 
-<h4>2. Abhishek Kumar</h4>
+//<h4>2. Abhishek Kumar</h4>
 
-<h4>3. Rishabh Mishra</h4>
+//<h4>3. Rishabh Mishra</h4>
 
-<h4>4. Vinay Pathania</h4>
+//<h4>4. Vinay Pathania</h4>
 
 ## Tech Stack and Tools
 - Java
